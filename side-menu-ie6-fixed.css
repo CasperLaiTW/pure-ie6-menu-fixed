@@ -1,0 +1,12 @@
+#menu{
+    left: 0px;
+    margin-left: -300px;
+}
+.pure-menu ul{
+    left:0px;
+    top:0px;
+    position: relative;
+}
+.pure-menu ul li{
+    visibility: visible;
+}
